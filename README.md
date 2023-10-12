@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Loot Broadcast Party
+The Loot Broadcast Party is meant for folks who might be in a Friends Chat with a certain friend group, and in a Clan Chat with another. This bridges the gap for the fact that you cannot broadcast loot to your friendschat, nor to guests in a clan. It's a simple plugin, with a few configurations to what you see in your chat box. Note -- the configurations affect what you see, not what other people see.
