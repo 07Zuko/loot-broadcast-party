@@ -195,9 +195,6 @@ public class LootBroadcastPartyPlugin extends Plugin
 	{
 		lastLogout = Instant.now();
 
-		final BufferedImage icon = ImageUtil.loadImageResource(LootBroadcastPartyPlugin.class, "panel_icon.png");
-
-
 		clientToolbar.addNavigation(navButton);
 		wsClient.registerMessage(CustomAlert.class);
 
