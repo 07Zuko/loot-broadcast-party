@@ -32,7 +32,7 @@ import java.awt.*;
 @ConfigGroup(LootBroadcastPartyConfig.GROUP)
 public interface LootBroadcastPartyConfig extends Config
 {
-	String GROUP = "party";
+	String GROUP = "loot-broadcast-party";
 
 	@ConfigItem(
 			keyName = "collectionLogs",

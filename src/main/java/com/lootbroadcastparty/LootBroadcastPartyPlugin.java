@@ -66,7 +66,7 @@ import net.runelite.client.chat.ChatColorType;
 		name = "Loot Broadcast Party",
 		configName = "LootBroadcastPartyConfig",
 		description = "Allows you to see and broadcast drops, level ups, and achievements from your party members",
-		enabledByDefault = false
+		enabledByDefault = true
 )
 @Slf4j
 public class LootBroadcastPartyPlugin extends Plugin
